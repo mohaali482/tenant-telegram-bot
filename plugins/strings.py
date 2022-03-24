@@ -1,1 +1,1 @@
-welcome_message = "Welcome @{username}, to Tenant management system. \nThis bot lets you get informed about the latest news on your room. \n\nYour chat id = <i><b>{chat_id}</b></i>\n\nRegister your chat id in the registration process."
+WELCOME_MESSAGE = "Welcome @{username}, to Tenant management system. \nThis bot lets you get informed about the latest news on your room. \n\nYour chat id = <i><b>{chat_id}</b></i>\n\nRegister your chat id in the registration process."
