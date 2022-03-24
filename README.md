@@ -18,7 +18,7 @@ In the ```.env``` file you should have the following.
 
 
 ```
-API = *** your_api_token ***
+API = your api token
 ```
 
 4) Now, You're good to go. Run the below command to start the bot.
