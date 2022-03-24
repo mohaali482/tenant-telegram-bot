@@ -10,7 +10,7 @@ from plugins.settings import API
 
 def start(update: Update, context: CallbackContext):
     update.message.reply_text(
-        welcome_message.format(username = update.message.from_user.username, chat_id = update.effective_chat.id),
+        WELCOME_MESSAGE.format(username = update.message.from_user.username, chat_id = update.effective_chat.id),
         parse_mode=ParseMode.HTML
     )
 
