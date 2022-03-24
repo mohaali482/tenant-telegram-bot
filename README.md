@@ -13,7 +13,15 @@ This is a telegram bot that enables Tenant Managers to send messages to renters 
 
 ```pip install -r requirements.txt```
 
-3) Now, You're good to go. Run the below command to start the bot.
+3) Add a ```.env``` file to the root directory.
+In the ```.env``` file you should have the following.
+
+
+```
+API = *** your_api_token ***
+```
+
+4) Now, You're good to go. Run the below command to start the bot.
 
 ```python main.py```
 
